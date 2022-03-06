@@ -16,3 +16,4 @@ else:
     DA=(95/100)*Basic
     Total=HRA+DA+Basic
     print("Total salary of employee is:" ,Total)
+
